@@ -22,8 +22,7 @@ else
 }
 
 /**
- * insertion_sort_list - Sorts a doubly linked list of integers 
- * using the insertion sort algorithm.
+ * insertion_sort_list - Sorts a doubly linked list of integers
  * @list: A pointer to the head of a doubly-linked list of integers.
  *
  * Description: Prints the list after each swap.
